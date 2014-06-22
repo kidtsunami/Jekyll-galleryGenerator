@@ -38,7 +38,7 @@ Each gallery is accessible through the site payload. So in the case of the galle
 
 Generate Thumbs
 ---------------
-1. Add `gallery_thumbs` to your config file `_config.yml` with an array of thumb sizes represented as two integers separated by anything other than integers.
+Add `gallery_thumbs` to your config file `_config.yml` with an array of thumb sizes represented as two integers separated by anything other than integers.
 ```yaml
 gallery_thumbs:
 	- 150x150
@@ -46,7 +46,8 @@ gallery_thumbs:
 	- 100 50
 	- 50basicallyanything20
 ```
-2. Re-generate your site using `jekyll` [Basic Usage](http://jekyllrb.com/docs/usage/)
+
+Make sure to re-generate your site using `jekyll` [Basic Usage](http://jekyllrb.com/docs/usage/)
 
 Access Thumbs From Gallery Image
 --------------------------------
