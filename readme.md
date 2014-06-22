@@ -80,3 +80,26 @@ Inspired By
 The more time I spend coding, the more I value the amazing efforts of others. I now first look to see if someone has done what I'm trying to do better before diving into my own implementation. In the end I didn't find other plugins satisfying the above requirements, but I was thoroughly inspired by two plugins.
 * [JekyllGalleryTag](https://github.com/redwallhp/JekyllGalleryTag) inspired my use of static files for my images and use of ImageMagick to resize images into thumbs.
 * [jekyll-postfiles](https://github.com/indirect/jekyll-postfiles) helped me wrap my head around processing posts and associating things with them.
+
+The MIT License
+===============
+
+Copyright (c) 2014 David Helmer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
